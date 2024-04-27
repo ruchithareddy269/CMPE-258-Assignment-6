@@ -39,6 +39,35 @@ k. Data Augmentation and Classification for Image
 
 L. FastAI Data Augmentation Capabilities
 
+#### Colab links for the above parts:
+a) to g)
+
+https://colab.research.google.com/drive/1xI0fHj8Cx8OCuX7PVVQtu9R3fKJY-oN4?usp=sharing
+
+h)callbacks and tensorboard
+
+https://colab.research.google.com/drive/1AXzZ_e00dTh6m-itqV5ZuwqcKsRVSsZw?usp=sharing
+
+i) using keras tuner
+https://colab.research.google.com/drive/1xI0fHj8Cx8OCuX7PVVQtu9R3fKJY-oN4?usp=sharing
+j)keras_cv_data_aug
+https://colab.research.google.com/drive/1K4AOhki_pjBxnGi3LZbBDe64Ob8sC3Xg?usp=sharing
+
+k)
+Audio-data-aug: https://colab.research.google.com/drive/1Mk7ii4ATOeRH1WAdRSPJ-s2tYFkxM9HC?usp=sharing
+
+Text:  https://colab.research.google.com/drive/1Ki5fH70D6DhJkpbT2oPWQdbOKJqWWj_d?usp=sharing
+
+Image: https://colab.research.google.com/drive/11JbEo0HzgV8t-OBgCyaYHY0p5fUy08Ow?usp=sharing
+
+Timeseries: https://colab.research.google.com/drive/1d0R5lxv1LStR_hXOawmxDvFwpPT8QFAB?usp=sharing
+
+video: https://colab.research.google.com/drive/1K7X40cZmw9x_pIUtFzs8Rr84Jo_vmpBL?usp=sharing
+
+l)
+fast_ai_aug
+https://colab.research.google.com/drive/1wJfzgHzKy9aRRDK4U31dr56jpVrqnmiu?usp=sharing
+
 ### Part 02
 
 Write a colab/colabs where you use advanced Keras deep learning constructs and concepts.
