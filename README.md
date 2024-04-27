@@ -96,6 +96,9 @@ J. Custom optimizer (MyMomentumOptimizer sections)
 
 K. Custom Training Loop  
 
+Colab link for part-2:
+https://colab.research.google.com/drive/10tBlabBr99qtqmo9rCh4Gw9718dF2Qxz?usp=sharing
+
 ## Assignment Deliverables
 
 Please see below for the list of deliverables that have been submitted for this assignment.
