@@ -152,9 +152,9 @@ Write a colab showcasing the following:
 
 Please see below for the list of deliverables that have been submitted for this assignment.
 
-1. `.ipynb`:  Colab for Part 1 portion of assignment.
-2. `.ipynb`:  Colab for Part 2 portion of assignment.
-3. `.ipynb`:  Colab for Part 3 portion of assignment.
+1. `Assignment_7_Part_1.ipynb`:  Colab for Part 1 portion of assignment.
+2. `Assignment_7_Part_2.ipynb`:  Colab for Part 2 portion of assignment.
+3. `Assignment_7_Part_3.ipynb`:  Colab for Part 3 portion of assignment.
 
 ###  References
 
